@@ -14,7 +14,7 @@ Script que ayuda en la instalación de servicio Proxy [**"squid"**](https://en.w
 ![Regulador patalla inslacion](img_instalacion.png?raw=true "Regulador patalla inslacion")
 # Uso
 
-Se puede ver en el video
+Se puede ver en el [video](https://www.youtube.com/watch?v=TPEpAVbFpY0)
 
 [![VIDEO](https://img.youtube.com/vi/TPEpAVbFpY0/0.jpg)](https://www.youtube.com/watch?v=TPEpAVbFpY0)
 
