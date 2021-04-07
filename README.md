@@ -16,7 +16,7 @@ Script que ayuda en la instalación de servicio Proxy [**"squid"**](https://en.w
 
 Se puede ver en el video
 
-[![VIDEO](https://img.youtube.com/vi/6ZKh3Jlf8NA/0.jpg)](https://www.youtube.com/watch?v=6ZKh3Jlf8NA)
+[![VIDEO](https://img.youtube.com/vi/TPEpAVbFpY0/0.jpg)](https://www.youtube.com/watch?v=TPEpAVbFpY0)
 
 
 Para poder obtener ayuda del script basta con ejecutar sin parametros
